@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "577503915477",
+    "project_id": "travelers-hub-9e497",
+    "storage_bucket": "travelers-hub-9e497.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577503915477:android:dad91103b01f2e4d0ee15c",
+        "android_client_info": {
+          "package_name": "com.example.travelers_hub"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXoT-qBURt5zwowzW_YpBqINmYnAvCvEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
